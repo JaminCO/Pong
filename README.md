@@ -1,2 +1,2 @@
 # Pong
-Famous arcade game made with python
+The Famous arcade game "PONG"
